@@ -241,3 +241,78 @@
     padding:16px 37px;
     margin-top:55px;
 }
+.page-footer {
+    background-color: #363a42;
+    padding: 130px 10% 35px;
+   
+}
+.page-footer .info {
+    display: flex;
+    color: #686868;
+    font-size: 16px;
+}
+.page-footer .info > div:not(:last-child) {
+    border-right: 2px solid #686868;
+}
+.page-footer .info div h3 {
+    font-size: 24px;
+    color:#ffffff;
+    margin-bottom: 24px;
+}
+.page-footer .info > div:first-child {
+    width: 28%;
+}
+.page-footer .info > div:nth-child(2) {
+    width: 20%;
+    padding-left:60px;
+}
+.page-footer .info > div:nth-child(3) {
+    width: 25%;
+    padding-left:65px;
+}
+.page-footer .info > div:last-child {
+    width: 33%;
+    padding-left:50px;
+}
+.page-footer .info > div:first-child > p {
+    margin-right: 60px;
+    margin-bottom: 30px;
+}
+.page-footer .info > div:first-child img {
+    margin-right: 15px;
+}
+.page-footer .info > div:first-child div:first-of-type {
+    display: flex;
+}
+.page-footer .info > div:first-child div:first-of-type img {
+    align-self: flex-start;
+}
+.page-footer .info > div:first-child div {
+    margin-bottom: 5px;
+}
+.page-footer .info ul {
+    list-style: none;
+    line-height: 30px;
+}
+.page-footer .info > div:last-child > p {
+    margin-bottom: 30px;
+}
+.page-footer .info > div:last-child input:first-of-type {
+    height: 50px;
+    width: 240px;
+    font-size: 14px;
+    padding-left: 8px;
+}
+.page-footer .info > div:last-child input:last-of-type {
+    width:80px;
+    padding-left:20px;
+}
+.page-footer .info > div:last-child div img {
+    margin-top: 60px;
+}
+.page-footer > p {
+    font-size: 16px;
+    color:#ffffff;
+    text-align: center;
+    margin-top: 180px;
+}

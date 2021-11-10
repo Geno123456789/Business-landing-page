@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 20" width="13" height="20">
+	<title>Layer 203</title>
+	<defs>
+		<image  width="13" height="20" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAUCAMAAABh7EcdAAAAAXNSR0IB2cksfwAAATJQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////Y4jS+QAAAGZ0Uk5TAD+e1evcpkkCOcD7/8lIQOXilGqL1/NUFM2yGRINoiVg1BMd0bUvCsOCn22zxcQOUbm3QRWZfctYwuw2vGukWflxjyHj/lYtUPjx94UzHC548JvK7tbp30b2XZAG2udpHtijBINeusU+HgAAANVJREFUeJxFzllXgmAUheFtGELuDI3CssAUg2bNRhusSG3Q1ObUsvH//4U+qOy9Oeu5OOscAAgNSeFhOaLATx2JUjQa8zGmMZ4Y1yc4aQDJKU6nMINZk3ELac5lsrKdm3dcLmCRS1jmClfX8ixgncUNbmKLqsVtmDQczd7ZLVl73McBD1E+Io9xQh3eaSUNr1rD2fmFCrFxWW9cNVttXovryRvy9u6efMj6zzw+MagT/IluALn3o9SzwEsNv/WF9D/g9Y2lxkDKO92PgfBJ8x+ISV/B/AYi2BmtNdk05gAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Layer 203" href="#img1" x="0" y="0" />
+</svg>
