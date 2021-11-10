@@ -1,0 +1,167 @@
+.page-header .contact-info {
+    height: 47px;
+    background-color: #0175b3;
+    display: flex;
+    padding-left: 15%;
+    padding-right: 15%;
+    justify-content: space-between;
+    align-items: center;
+}
+.page-header .contact-info div span {
+    color: #ffffff;
+    margin-left: 8px;
+    font-size: 16px;
+}
+.page-header .contact-info div span:first-of-type {
+    font-size: 20px; 
+    margin-right: 16px;
+}
+.page-header .navigation {
+    display: flex;
+    padding: 15px 15%;
+    justify-content: space-between;
+}
+.page-header .navigation nav ul {
+    list-style: none;
+    display: flex;
+    margin-top: 40px;
+    align-items:baseline;
+}
+.page-header .navigation nav li a {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    color: #686868;
+    margin-right: 40px;
+}
+.page-header .navigation nav li form input {
+    height: 40px;
+    width: 210px;
+    font-size: 12px;
+    padding: 17px 100px 14px 17px;
+}
+.page-header .navigation nav li form button {
+    position: relative;
+    left: -40px;
+    background: #ffffff;
+    border: none;
+    top:5px;
+}
+.page-header .navigation nav li a:hover {
+    color:#0175b3;
+    cursor:pointer;
+    font-weight: bold;
+}
+.company {
+    background: url("../assets/background-page1.png");
+    padding: 550px 50% 180px 15%;
+}
+.company div h1 {
+    font-size: 72px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    white-space: nowrap;
+}
+.company div p {
+    font-size: 24px;
+    margin-bottom: 40px;
+    color: #686868;
+}
+.financial-company div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px 19%;
+}
+.financial-company div h2 {
+    font-size: 40px;
+    font-weight: 500;
+    margin-bottom: 70px;
+}
+.financial-company div p {
+    font-size: 19px;
+    text-align: center;
+    color: #686868;
+}
+.consultation {
+    background: url("../assets/handshake.png");
+    padding-top: 300px;
+    padding-bottom: 80px;
+}
+.consultation div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.consultation div p {
+    font-size: 38px;
+    color:#ffffff;
+    margin-bottom: 16px;
+}
+.consultation div h2 {
+    font-size: 72px;
+    font-weight: 500;
+    color:#ffffff;
+    margin-bottom: 140px;
+}
+.team h2, .services h2 {
+    margin-top: 50px;
+    margin-bottom: 80px;
+    font-size: 40px;
+    font-weight: 500;
+    text-align: center;
+}
+.team .cards {
+    list-style: none;
+    display: flex;
+    padding: 50px 10% 100px 10%;
+    background: #d8d8da;
+    justify-content: space-between;
+}
+.team .cards li {
+    background: #ffffff;
+    width: 290px;
+}
+.team .cards li div h3 {
+    font-size: 22px;
+    font-weight: 500;
+    text-align:center;
+    text-transform: uppercase;
+    margin-top: 25px;
+}
+.team .cards li div p {
+    font-size: 16px;
+    color:#686868;
+    text-align: center;
+    padding:20px 26px;
+}
+.services .service {
+    list-style: none;
+    margin: 0 10% 100px 10%;
+    display: flex;
+    justify-content: space-between;
+}
+.services .service li {
+    border: 1px solid #686868;
+    margin-right: 10px;
+}
+.services .service li div {
+    text-align: center;
+}
+.services .service li div img {
+    margin-top: 68px;
+    margin-bottom: 28px;
+}
+.services .service li h3 {
+    font-size: 23px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align:center;
+} 
+.services .service li p {
+    font-size: 16px;
+    color:#686868;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 55px;
+}

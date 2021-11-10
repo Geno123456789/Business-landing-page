@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 19" width="20" height="19">
+	<title>Layer 22</title>
+	<defs>
+		<image  width="20" height="19" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAMAAACnUt2HAAAAAXNSR0IB2cksfwAAAVZQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////RiHu7wAAAHJ0Uk5TAIX932ENARsMWuD/wEUJGYB+Mk7TrihH6IcXT97BOm/5948hSRh6/HUICgRzdFLpjiaz+OqBH2zm9YIa7BVee0HGpPa8QFzXQ2fWv2IHZf7yTdrMlg5j+4hRx7CEEbfwniw0Jx0GzRaGu76scikCBUhXuowH6gAAAPFJREFUeJxjYGBgYGRiZmFlQAZs7BycXNw8vHzIgvwCgkLCItyiYsiC4hLcklLSMrJyyILyCtyKSsriKqrIgmrq3NzMGppa2siCOkBBCV0GVKCnz82tb8CPKmhoZMzNbWJqxoYsyGpuwc3NbWlljeJ4a1EmoKiNlS2QI2VnLwQRdnAECnJbMAJFbZ2cXVwh7nBzB4maWAl5iHl6cXv7uIIEff24/IGiAUYiVoaBQdzBIWCloWFB4SDF3EwR7JFR0TEQY2MD48CC3PEJiUnJKVA3pAoxpoEVizgg+zddOMMoMys7JzcP2cH5ygWFbg7pICYAzYEh1wJXK8EAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Layer 22" href="#img1" x="0" y="0" />
+</svg>
