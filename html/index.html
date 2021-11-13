@@ -7,6 +7,7 @@
         <link href="../css/reset.css" rel="stylesheet">
         <link href="../css/text.css" rel="stylesheet">
         <link href="../css/buttons.css" rel="stylesheet">
+        <link href="../css/slider.css" rel="stylesheet">
     </head>
     <body>
         <header class="page-header">
@@ -61,11 +62,32 @@
         <section class="financial-company">
             <div>
                 <h2 class="color-text">Welcome to  Financial Company</h2>
-                <p> Social media use by the financial services industry is prevalent and can be expected to grow as the social networks continue
-                to expand and become further entrenched in the public’s online consciousness. However, the industry has lagged 
-                corporate peers, likely due to regulatory concerns. In the authors’ view, however, regulatory concerns or 
-                 paralysis, but instead should be considered in the context of the business purposes behind a financial 
-                intended use of social media. Firms that have a clear business </p>
+                <div class="slider">
+                    <div class="item">
+                         <p class="slideText">Social media use by the financial services industry is prevalent and can be expected to grow as the social networks continue
+                            to expand and become further entrenched in the public’s online consciousness. However, the industry has lagged 
+                            corporate peers, likely due to regulatory concerns. In the authors’ view, however, regulatory concerns or 
+                             paralysis, but instead should be considered in the context of the business purposes behind a financial 
+                            intended use of social media. Firms that have a clear business</p>
+                    </div>
+                    <div class="item">
+                       <p class="slideText">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore commodi alias, illo, eum earum incidunt nisi at sunt doloribus, 
+                           sint non excepturi! Necessitatibus, fugit reiciendis. A nemo velit modi consequuntur!</p>
+                    </div>
+                    <div class="item">
+                        <p class="slideText">Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio distinctio dolores minima molestias fugit unde similique non, 
+                            doloribus aliquam nihil in laborum atque iure quaerat ratione sequi delectus a hic aspernatur repellendus. Iste modi possimus, aut tempore explicabo, 
+                            adipisci unde dolorem nihil, aperiam nulla vero sunt? Delectus nisi esse dicta.</p>
+                    </div>
+                    <a class="prev" onclick="minusSlide()">&#10094;</a>
+                    <a class="next" onclick="plusSlide()">&#10095;</a>
+                </div>
+                <div class="slider-dots">
+                    <span class="slider-dots_item" onclick="currentSlide(1)"></span> 
+                    <span class="slider-dots_item" onclick="currentSlide(2)"></span> 
+                    <span class="slider-dots_item" onclick="currentSlide(3)"></span> 
+                </div>
+                <script src="../js/script1.js"></script>
             </div>
         </section>
         <section class="consultation">
